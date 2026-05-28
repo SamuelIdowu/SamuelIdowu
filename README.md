@@ -1,6 +1,6 @@
 # Hi there, I'm Samuel 👋
 
-[![Website](https://img.shields.io/badge/Website-YourWebsite.com-blue?style=flat-square&logo=google-chrome)](https://samuelidowu.vercel.app)
+[![Website](https://img.shields.io/badge/Website-samuel-idowu.vercel.app/-blue?style=flat-square&logo=google-chrome)](https://samuel-idowu.vercel.app/)
 [![Twitter](https://img.shields.io/badge/Twitter-%40YourHandle-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Samuelidowu_6)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samueltemiloluwaidowu)
 
